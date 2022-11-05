@@ -1,2 +1,4 @@
 2022-11-05 12:36:56,565 - __main__ - INFO - Token value: Token not available!
 2022-11-05 12:36:57,373 - __main__ - INFO - Weather in Berlin: 11.43
+2022-11-05 11:40:41,777 - __main__ - INFO - Token value: test_token
+2022-11-05 11:40:42,162 - __main__ - INFO - Weather in Berlin: 11.43
